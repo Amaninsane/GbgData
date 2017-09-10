@@ -43,14 +43,4 @@ public class GbgData {
 		}       
 		return doc;
 	}
-
-	public String getValue() {
-		return this.value;
-	}
-
-	public String getTime() {
-		return this.time;
-	}
-
-
 }
